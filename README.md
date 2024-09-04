@@ -85,4 +85,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://media.discordapp.net/attachments/1270206578334633995/1280655247047655444/sensew_a_brazil_distopic_future_image_beautiful_future_beach_to_755df281-c3c4-4ca8-ae42-9dca7e023792.png?ex=66d8dea4&is=66d78d24&hm=e610cdce0d1c2060406715b8d4477b6891eb988237a8862a8fa49bb53061377c&" target="_blank">Github Profilinator</a></div>
