@@ -52,9 +52,9 @@
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=GhostFalk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GhostFalk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFalk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>  
 
