@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.svgrepo.com/show/415194/files-hack-secret.svg" align="center" style="width: 1%" />
+<img src="https://www.svgrepo.com/show/415194/files-hack-secret.svg" align="center" style="width: 10%" />
 </div>  
   
 
