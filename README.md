@@ -22,10 +22,11 @@
 
 
 ## Minhas Habilidades
-<table><tr><td valign="center" width="33%">
+<table><tr><td valign="top" width="33%">
 
 
 <div style="display: inline_block"><br>
+  <div align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -63,4 +64,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GhostFalk&icon=5&color=0)](https://visitcount.itsvg.in)
-
+</div>
