@@ -22,7 +22,7 @@
 
 
 ## Minhas Habilidades
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="center" width="33%">
 
 
 <div style="display: inline_block"><br>
