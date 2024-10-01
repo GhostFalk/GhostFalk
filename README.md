@@ -21,7 +21,7 @@
 <br/>  
 
 
-## Minhas Habilidades
+## 💪 Minhas Habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -37,12 +37,12 @@
 <br/>  
 
 
-## Me encontre 
+## 👨‍💻 Me encontre 
 <div align="center">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://linkedin.com/in/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -51,7 +51,7 @@
 
 <br/>  
 
-# 📊 GitHub Stats:
+# 📊 GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=GhostFalk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GhostFalk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFalk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
